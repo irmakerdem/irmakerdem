@@ -1,6 +1,6 @@
 ### Hi, there! I'm Irmak Erdem 😸
 
-I build JavaScript and React apps 
+I build JavaScript and React apps.
 
 ## Get in touch
 - LinkedIn: https://www.linkedin.com/in/irmakerdem/
