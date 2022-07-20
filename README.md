@@ -1,6 +1,8 @@
 # I'm Irmak, a front-end software engineer.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=irmakerdem.irmakerdem&right_color=green)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=irmakerdem.irmakerdem&right_color=green) -->
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=irmakerdem%2Firmakerdem&countColor=%2337d67a)
 
 I build 🧱 JavaScript and React apps 💻.
 
