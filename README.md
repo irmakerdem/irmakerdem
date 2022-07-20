@@ -1,4 +1,4 @@
-# Hi, there! I'm Irmak Erdem 😺.
+# I'm Irmak, a front-end software engineer 😺.
 
 I build 🧱 JavaScript and React apps 💻.
 
