@@ -28,8 +28,5 @@ I build 🧱 JavaScript and React apps 💻.
 
 [![Irmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=irmakerdem&show_icons=true&theme=vue-dark)](https://github.com/irmakerdem/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irmakerdem)](https://git.io/streak-stats)
-
 ## Get in touch
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-- LinkedIn: https://www.linkedin.com/in/irmakerdem/
+<a href="https://www.linkedin.com/in/irmakerdem/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
