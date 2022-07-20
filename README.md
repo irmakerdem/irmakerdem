@@ -1,6 +1,4 @@
-# Hi, there! I'm <span style="color:green">Irmak</span> Erdem 😺.
-
-<div style="text-align:center">Hi, there! I'm <span style="color:green">Irmak</span> Erdem 😺.
+# Hi, there! I'm Irmak Erdem 😺.
 
 I build 🧱 JavaScript and React apps 💻.
 
@@ -28,7 +26,7 @@ I build 🧱 JavaScript and React apps 💻.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irmakerdem&layout=compact&theme=vue-dark)](https://github.com/irmakerdem/github-readme-stats)
 
-[![Irmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=irmakerdem&show_icons=true&theme=vue-dark)](https://github.com/irmakerdem/github-readme-stats)
+[![Irmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=irmakerdem&show_icons=true&hide=stars&theme=vue-dark)](https://github.com/irmakerdem/github-readme-stats)
 
 ## Get in touch
 <a href="https://www.linkedin.com/in/irmakerdem/"> <img alt="linkedin badge" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
