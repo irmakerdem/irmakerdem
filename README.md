@@ -29,7 +29,7 @@ I build 🧱 JavaScript and React apps 💻.
 
 <!-- ![Irmak's trophies](https://github-profile-trophy.vercel.app/?username=irmakerdem&hide=starstheme=vue-dark) -->
 
-## My Repos 🏰
+<!-- ## My Repos 🏰
 <a href="https://github.com/irmakerdem/rancid-tomatillos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=irmakerdem&repo=rancid-tomatillos" />
 </a>
@@ -41,7 +41,7 @@ I build 🧱 JavaScript and React apps 💻.
 </a>
 <a href="https://github.com/irmakerdem/rock_paper_scissors">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=irmakerdem&repo=rock_paper_scissors" />
-</a>
+</a> -->
 
 ## Get in *Touch* 📩
 (not through the *terminal* 🖥)<br>
