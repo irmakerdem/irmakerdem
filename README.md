@@ -1,4 +1,6 @@
-# Hi, there! I'm Irmak Erdem 😺.
+# Hi, there! I'm <span style="color:green">Irmak</span> Erdem 😺.
+
+<div style="text-align:center">Hi, there! I'm <span style="color:green">Irmak</span> Erdem 😺.
 
 I build 🧱 JavaScript and React apps 💻.
 
