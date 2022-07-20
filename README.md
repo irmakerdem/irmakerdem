@@ -23,9 +23,11 @@ I build 🧱 JavaScript and React apps 💻.
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 ## My GitHub 👩🏻‍💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irmakerdem&layout=compact&theme=vue-dark)](https://github.com/irmakerdem/github-readme-stats)
+[![Irmak's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irmakerdem&layout=compact&theme=vue-dark)](https://github.com/irmakerdem/github-readme-stats)
 
 [![Irmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=irmakerdem&show_icons=true&hide=stars&theme=vue-dark)](https://github.com/irmakerdem/github-readme-stats)
+
+![Irmak's trophies](https://github-profile-trophy.vercel.app/?username=irmakerdem&theme=vue-dark)]
 
 ## Get in *Touch* 📩
 (not through the *terminal* 🖥)<br>
