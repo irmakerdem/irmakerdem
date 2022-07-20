@@ -1,6 +1,6 @@
-# Hi, there! I'm Irmak Erdem 😸
+# Hi, there! I'm Irmak Erdem 😺.
 
-I build JavaScript and React apps.
+I build 🧱 JavaScript and React apps 💻.
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -12,10 +12,10 @@ I build JavaScript and React apps.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Frameworks, Platforms and Libraries
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 ### Testing
@@ -31,4 +31,5 @@ I build JavaScript and React apps.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irmakerdem)](https://git.io/streak-stats)
 
 ## Get in touch
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 - LinkedIn: https://www.linkedin.com/in/irmakerdem/
