@@ -25,7 +25,7 @@ I build 🧱 JavaScript and React apps 💻.
 ## My GitHub 👩🏻‍💻
 [![Irmak's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irmakerdem&layout=compact&theme=vue-dark)](https://github.com/irmakerdem/github-readme-stats)
 
-[![Irmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=irmakerdem&show_icons=true&hide=stars&theme=vue-dark)](https://github.com/irmakerdem/github-readme-stats)
+[![Irmak's GitHub stats](https://github-readme-stats.vercel.app/api?username=irmakerdem&show_icons=true&count_private=true&hide=stars&theme=vue-dark)](https://github.com/irmakerdem/github-readme-stats)
 
 ![Irmak's trophies](https://github-profile-trophy.vercel.app/?username=irmakerdem&hide=starstheme=vue-dark)
 
