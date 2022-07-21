@@ -4,7 +4,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=irmakerdem%2Firmakerdem&countColor=%2337d67a)
 
-I build JavaScript and React apps.
+## I build JavaScript and React apps.
 
 ### Languages 🙊
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -48,6 +48,6 @@ I build JavaScript and React apps.
 </a> -->
 
 ## Get in *Touch* 📩
-(not through the *terminal* 🖥)<br>
+#### (not through the *terminal* 🖥)<br>
 <a href="https://www.linkedin.com/in/irmakerdem/"> <img alt="linkedin badge" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="irmakerdem9@gmail.com"> <img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"/></a>
