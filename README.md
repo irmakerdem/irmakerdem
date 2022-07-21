@@ -5,6 +5,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=irmakerdem%2Firmakerdem&countColor=%2337d67a)
 
 ## I build JavaScript and React apps.
+### Checkout the *Repositories* tab up top to see what I am working on!
 
 ### Languages 🙊
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
